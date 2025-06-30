@@ -14,7 +14,7 @@
     "smarter"
   ],
   "requirements": [
-    "smarter-client==0.2.4"
+    "smarter-client==0.2.4",
     "git+https://github.com/willhaggan/smarter-kettle-client.git@fix-urllib3-conflict"
   ],
   "ssdp": [],
